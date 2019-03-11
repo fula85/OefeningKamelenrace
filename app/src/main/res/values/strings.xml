@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Oefening Kamelenrace</string>
+    <string name="txt_label_een">Suske</string>
+    <string name="txt_label_twee">Wiske</string>
+    <string name="txt_label_drie">Jommeke</string>
+    <string name="btn_go">GO!</string>
+</resources>
