@@ -91,6 +91,7 @@
         android:layout_marginTop="103dp"
         android:layout_marginEnd="163dp"
         android:layout_marginRight="163dp"
+        android:onClick="onStartClicked"
         android:text="@string/btn_go"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
